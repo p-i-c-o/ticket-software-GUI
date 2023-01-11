@@ -1,0 +1,8 @@
+
+John: Tier-> Standard | INVALID
+Max: Tier-> VIP | VALID
+Rob: Tier-> Standard | VALID
+Lucas: Tier-> Standard | INVALID
+Maxim: Tier-> VIP | INVALID
+Daniel: Tier-> Standard | VALID
+John: Tier-> VIP | VALID
